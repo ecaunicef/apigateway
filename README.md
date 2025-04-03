@@ -67,7 +67,7 @@ php artisan cache:clear
 ## 7. Navigate to the Public Folder
 To check if the project works:
 
-http://localhost/<project-folder>/public
+http://localhost/project-folder/public
 
 
 ## Contributor
