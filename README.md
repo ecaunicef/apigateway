@@ -56,7 +56,7 @@ DATAPROCESSING_SERVICE_BASE_URL=http://localhost:9091
 DATARETRIEVAL_SERVICE_BASE_URL=http://localhost:9092
 ```
 
-##6. Clean Cache and Config
+## 6. Clean Cache and Config
 Clear any cache and config to make sure everything is up to date:
 
 ```bash
